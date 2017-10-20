@@ -1,0 +1,135 @@
+body {
+    background-image: url("fondlan.png");
+       
+}
+
+header {
+    padding-top: 70px; 
+}
+
+.onerow {
+    padding-left: 50px;
+    padding-right: 50px;
+    background: white;
+    opacity: 0.9;
+    border-top: solid 1px silver;
+    border-right: solid 1px silver;
+    border-left: solid 1px silver;
+    border-bottom: dashed 1px silver;
+}
+
+/*Couleur pour "bientôt en ligne"*/
+
+.texbleu {
+    color: #6efcff;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 70px;
+}
+
+.texbleu:hover {
+    color:#88ffd1;
+}
+
+.texjaune {
+    color: #fee655;
+}
+
+.texjaune:hover {
+    color: #ffd2d2;
+}
+
+.texvert {
+    color: #88ffd1;
+}
+
+.texvert:hover {
+    color: #9e26d8;
+}
+
+.texrose {
+    color: #ffd2d2;
+}
+
+.texrose:hover {
+    color: #6efcff;
+}
+
+.textvio {
+    color: #9e26d8;   
+}
+
+.textvio:hover {
+    color: #fee655;  
+}
+
+.entrline {
+    line-height: 23px; 
+    font-size: 20px;
+    text-align: center;
+    color: #b7b7b7;  
+}
+
+.small {
+    font-size: 17px;
+    text-align: center;
+    color: #dbdbdb;
+    margin: 25px;
+}
+
+textarea {
+    width: 520px;
+    height: 70px;
+    margin-bottom: 9px;
+}
+
+.btn {
+    background: #6efcff;
+    border: #6efcff;
+    margin-bottom: 13px;
+}
+
+.btn:hover {
+    background: #9e26d8;
+}
+
+.bye {
+    font-size: 15px;
+    float: right;
+    color: #b7b7b7;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.tworow {
+    padding: 10px 50px;
+    background: white;
+    opacity: 0.9;
+    border-bottom: solid 1px silver;
+    border-left: solid 1px silver;
+    border-right: solid 1px silver;
+}
+
+.smallc {
+    font-size: 13px;
+    color: #dbdbdb;
+    float: left;
+    margin-top: 8px;
+    margin-bottom: auto;
+    margin-right: 15px;
+}
+
+img {
+    height: 35px;
+    width: 35px;
+    float: right; 
+}
+
+.smallb {
+    font-size: 13px;
+    float: right;
+    color: #dbdbdb;
+    margin-top: 8px;
+    margin-bottom: auto;
+    margin-right: 15px;
+}
