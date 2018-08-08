@@ -1,1 +1,5 @@
 # LandingPage
+
+```
+Un exemple
+```
